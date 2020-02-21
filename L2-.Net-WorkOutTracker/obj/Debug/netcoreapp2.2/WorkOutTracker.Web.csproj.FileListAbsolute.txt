@@ -1,0 +1,112 @@
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.deps.json
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.runtimeconfig.json
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.runtimeconfig.dev.json
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.DataLayer.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.DataLayer.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.csprojAssemblyReference.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorAssemblyInfo.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorAssemblyInfo.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.TagHelpers.input.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.TagHelpers.output.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorCoreGenerate.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.csproj.CopyComplete
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.deps.json
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.runtimeconfig.json
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.runtimeconfig.dev.json
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.DataLayer.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.DataLayer.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.csprojAssemblyReference.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorAssemblyInfo.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorAssemblyInfo.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.AssemblyInfoInputs.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.AssemblyInfo.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.TagHelpers.input.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.TagHelpers.output.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorCoreGenerate.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorTargetAssemblyInfo.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorTargetAssemblyInfo.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.csproj.CopyComplete
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.deps.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.runtimeconfig.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.runtimeconfig.dev.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.DataLayer.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.DataLayer.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.BusinessLayer.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorAssemblyInfo.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorAssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.TagHelpers.input.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.TagHelpers.output.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorCoreGenerate.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorTargetAssemblyInfo.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.RazorTargetAssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.Views.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.csproj.CopyComplete
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\L2-.Net-WorkOutTracker\obj\Debug\netcoreapp2.2\WorkOutTracker.Web.pdb

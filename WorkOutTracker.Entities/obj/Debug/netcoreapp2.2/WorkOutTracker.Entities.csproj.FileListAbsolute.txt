@@ -1,0 +1,23 @@
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.deps.json
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfoInputs.cache
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfo.cs
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\Kavya H\source\repos\L2-.Net-WorkOutTracker\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.deps.json
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfoInputs.cache
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfo.cs
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+E:\Bhuvaneshwari\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.deps.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\bin\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-FSA\Workout_Tracker-L2Dotnet-master\WorkOutTracker.Entities\obj\Debug\netcoreapp2.2\WorkOutTracker.Entities.pdb
